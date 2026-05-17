@@ -1,5 +1,4 @@
-# D-Flip-Flop--Verilog
-Positive edge-triggered D Flip-Flop in Verilog with asynchronous reset and testbench
+
 # D-Flip-Flop--Verilog
 
 Positive edge-triggered D Flip-Flop in Verilog with asynchronous active-high reset and testbench.
