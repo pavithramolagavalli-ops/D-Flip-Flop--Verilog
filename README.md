@@ -7,6 +7,8 @@ Positive edge-triggered D Flip-Flop in Verilog with asynchronous active-high res
 ## 🔌 D Flip-Flop Circuit Diagram
 D-flip-flop-circuit
 **Working:** D Flip-Flop using 7400 quad 2-input NAND gates. Master-Slave configuration.
+## 🔌 D Flip-Flop Circuit Diagram
+![Circuit Diagram](d%20flip%20flop.webp)
 
 ## ⚡ Truth Table
 | CLOCK | RESET | D | Q(next) |
