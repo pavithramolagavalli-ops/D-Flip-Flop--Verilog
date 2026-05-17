@@ -5,8 +5,7 @@ Positive edge-triggered D Flip-Flop in Verilog with asynchronous reset and testb
 Positive edge-triggered D Flip-Flop in Verilog with asynchronous active-high reset and testbench.
 
 ## 🔌 D Flip-Flop Circuit Diagram
-![Circuit Diagram](D-flip-flop-circuit-representation-with-NAND-_...png)
-
+D-flip-flop-circuit
 **Working:** D Flip-Flop using 7400 quad 2-input NAND gates. Master-Slave configuration.
 
 ## ⚡ Truth Table
